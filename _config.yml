@@ -2,7 +2,7 @@
 title: Casey Woolley
 email: caseywoolley@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-I have some random stuff to say, I guess I'll put it here.
+  I have some random stuff to say, I guess I'll put it here.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://caseywoolley.github.io" # the base hostname & protocol for your site
 twitter_username: caseywoolley
