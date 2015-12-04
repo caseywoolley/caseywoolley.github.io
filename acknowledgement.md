@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no page
 title: acknowledgement
 permalink: /acknowledgement/
 image: /images/pic01.jpg
