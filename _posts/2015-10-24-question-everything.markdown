@@ -4,7 +4,7 @@ title:  "Question Everything"
 date:   2015-10-24 18:35:05
 categories: tech
 tags: code hackreactor
-image: /images/XNBK7TFBAU.jpg
+image: /images/6K7SIB380W.jpg
 ---
 
 Working with a team I recently had the opportunity to push new features onto an already functional full stack app built by another team.  It was a well architected app and we were looking forward to getting our hands dirty in the code.  We had great aspirations for the features we’d add.  We pegged a couple of mundane tasks that we’d get taken care of on the first day and then we’d move on to the really fun stuff.  But as these things typically seem to go, what we thought would be easy to knock out in a few hours quickly turned into multiple days of pain.
